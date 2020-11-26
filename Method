@@ -1,0 +1,21 @@
+<?php 
+
+class Mobil {
+
+  var $warna;
+  var $jumlahKursi;
+  var $jumlahRoda;
+  
+  function warna() { 
+  $this->warna = $warna;
+  }
+  
+  function jumlahRoda() { 
+  $this->jumlahRoda = $jumlahRoda;
+  }
+
+  function jumlahKursi() { 
+  $this->jumlahKursi = $jumlahKursi;
+  }
+
+}
