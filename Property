@@ -1,9 +1,8 @@
-<?php 
+<?php
 
-class Mobil {
+class laptop {
 
-  public $warna;
-  public $jumlahKursi;
-  public $jumlahRoda;
-  
-} 
+   var $pemilik;
+   var $merk;
+   
+}
