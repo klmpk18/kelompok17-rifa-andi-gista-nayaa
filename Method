@@ -10,12 +10,12 @@ class Mobil {
   $this->warna = $warna;
   }
   
-  function jumlahRoda() { 
-  $this->jumlahRoda = $jumlahRoda;
+  function jumlahKursi() { 
+  $this->jumlahKursi = $jumlahKursi;
   }
 
-  function jumlahKursi() { 
-  $this->jumlahKursi = $jumlahKursi;
+  function jumlahRoda() { 
+  $this->jumlahRoda = $jumlahRoda;
   }
 
 }
