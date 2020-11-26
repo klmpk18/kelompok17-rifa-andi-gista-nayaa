@@ -1,5 +1,9 @@
-<?php 	class binatang {
-    var $buaya
-    var $semut
-    var $badak 	
-} ?>
+<?php 
+
+class Mobil {
+
+  public $warna;
+  public $jumlahKursi;
+  public $jumlahRoda;
+  
+} 
