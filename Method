@@ -1,21 +1,14 @@
-<?php 
+<?php
 
-class Mobil {
+class laptop {
 
-  var $warna;
-  var $jumlahKursi;
-  var $jumlahRoda;
-  
-  function warna() { 
-  $this->warna = $warna;
-  }
-  
-  function jumlahKursi() { 
-  $this->jumlahKursi = $jumlahKursi;
-  }
+   var $pemilik;
+   var $merk;
+   
+   
+   function hidupkan_laptop() {
+   return "Hidupkan Laptop";
 
-  function jumlahRoda() { 
-  $this->jumlahRoda = $jumlahRoda;
-  }
-
+   pfunction merk_laptop() {
+   return "merk asus";
 }
