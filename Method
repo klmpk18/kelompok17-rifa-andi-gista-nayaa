@@ -9,6 +9,6 @@ class laptop {
    function hidupkan_laptop() {
    return "Hidupkan Laptop";
 
-   pfunction merk_laptop() {
+   function merk_laptop() {
    return "merk asus";
 }
